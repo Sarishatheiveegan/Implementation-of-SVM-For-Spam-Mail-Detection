@@ -67,18 +67,9 @@ acc
 ```
 
 ## Output:
-### Encoding:
-![328234656-ed87456c-9dd8-418d-a960-1abad11477f2](https://github.com/user-attachments/assets/26f3b824-137a-4804-8660-5c21ddc4b5e8)
-### Head():
-![328234925-8e2c3fec-2fe3-40c3-923a-1a1c3719e734](https://github.com/user-attachments/assets/620c8737-1e1b-487b-a5ed-5fa009d81811)
-### Info():
-![328235099-b48518c5-c983-44d3-9cc2-14924033aa91](https://github.com/user-attachments/assets/7ce2aa23-9c90-4547-8df7-7c454b826c74)
-### isnull().sum():
-![328235367-50754f89-e886-48c3-a285-44b76317b605](https://github.com/user-attachments/assets/f5f51e0f-dee0-45b4-8d77-ae9a1ea14264)
-### Prediction of y:
-![328235504-8f3a2d63-9aa6-4da2-95c4-d53b87fde998](https://github.com/user-attachments/assets/44c56623-f6ca-406d-a830-f8073a86fa76)
-### Accuracy:
-![328235573-d1dcce16-dc32-4ec2-a042-ce25bee461da](https://github.com/user-attachments/assets/5aa69037-c14d-4262-a10f-bde6fc5afa50)
+![Screenshot 2024-12-14 003451](https://github.com/user-attachments/assets/c37558da-3b85-49e1-bc65-1181baae0fa7)
+![Screenshot 2024-12-14 003507](https://github.com/user-attachments/assets/355c5cf7-500c-4071-9ba1-b923db596838)
+
 
 
 
